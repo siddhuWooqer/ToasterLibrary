@@ -1,0 +1,3 @@
+rootProject.name = "PartOne"
+include ':app'
+include ':p2module'
